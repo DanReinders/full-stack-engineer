@@ -5,7 +5,6 @@ In order to be considered for the Full-Stack Engineer position, please complete 
 ### Here are couple of things to keep in mind:
 
 * The code should be of production quality.
-* Follow test driven development. **Your code must contain tests.**
 * Follow best practices around background tasks, migrations, threads, etc.
 * Ensure code is object-oriented, well encapsulated and follows a consistent convention.
 
